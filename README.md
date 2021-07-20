@@ -82,16 +82,18 @@ The School size with out the 9th grader went from 1,635 students to 1,174, this 
 
 **Scores by School Size Modified data Frame**
 
+When looking at the school type Thomas is charter school and will only effect the charter school type. 
+
 ![School_Size_Modified.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/School_Size_Modified.PNG)
 
 - **Scores by School Type**
 
 **Scores by School Type Original data Frame**
 
-![School_Size_Original.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/School_Size_Original.PNG)
+![Scores_by_school_type_original.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Scores_by_school_type_original.PNG)
 
 
 **Scores by School Type Modified data Frame**
 
-![School_Size_Modified.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/School_Size_Modified.PNG)
+![Scores_by_school_type_modified.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Scores_by_school_type_modified.PNG)
 
