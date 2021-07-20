@@ -63,11 +63,11 @@ Looking at the data all the the averages across all grade are very similar rangi
 - **Scores by School Spending**
 The spending ranges did not change and Thomas High School falls into the bucket of $630-644.  No other changes were made to the data so this is the only bucket that was effected all the passing percentages went up for all values. 
 
-**Spending Scores Original data Frame**
+**Scores by School Spending Original data Frame**
 
 ![spending_modified.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/spending_modified.PNG)
 
-**Spending Scores Modified data Frame**
+**Scores by School Spending Modified data Frame**
 
 ![spending_original.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/spending_original.PNG)
 
@@ -83,3 +83,15 @@ The School size with out the 9th grader went from 1,635 students to 1,174, this 
 **Scores by School Size Modified data Frame**
 
 ![School_Size_Modified.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/School_Size_Modified.PNG)
+
+- **Scores by School Type**
+
+**Scores by School Type Original data Frame**
+
+![School_Size_Original.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/School_Size_Original.PNG)
+
+
+**Scores by School Type Modified data Frame**
+
+![School_Size_Modified.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/School_Size_Modified.PNG)
+
