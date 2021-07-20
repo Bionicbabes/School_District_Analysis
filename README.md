@@ -73,12 +73,13 @@ The spending ranges did not change and Thomas High School falls into the bucket 
 
 - **Scores by school size** 
 
+The School size with out the 9th grader went from 1,635 students to 1,174, this was not a big enough reduction to move Thomas High School into a different bin.  The only effected score are in the Medium (1000-2000) bin were all passing scores increased due to the reduction in the total students in the demoninator when calculating he percentages. 
 
 **Scores by School Size Original data Frame**
 
-![spending_modified.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/spending_modified.PNG)
+![School_Size_Original.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/School_Size_Original.PNG)
 
 
 **Scores by School Size Modified data Frame**
 
-![spending_original.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/spending_original.PNG)
+![School_Size_Modified.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/School_Size_Modified.PNG)
