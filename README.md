@@ -47,3 +47,13 @@ Although this did not effect the averages at all the overall passing percentage 
 
 - **How does replacing the ninth-grade scores affect the following:**
 ------------------------------
+
+- Math and reading scores by grade
+Looking at the data all the the averages across all grade are very similar ranging from 83.2 to 84.0 for the top tear schools, but what is interesting is when you take out the ninth graders and decrease the total number of students the passing percentages all increase significantly.  Thomas High school are very consistent from grade to grade the differentiator is the school size for overall performance.
+
+**Math Scores by Grade data Frame**
+![Top_school_by_overall_score_original.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Top_school_by_overall_score_original.PNG)
+
+**Reading Scores by Grade data Frame**
+
+![Top_school_by_overall_score_modified.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Top_school_by_overall_score_modified.PNG)
