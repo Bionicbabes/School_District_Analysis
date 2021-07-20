@@ -60,11 +60,9 @@ Looking at the data all the the averages across all grade are very similar rangi
 ![Reading_scores_by_school.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Reading_scores_by_school.PNG)
 
 
--**Scores by school spending**
+- **Scores by school spending**
+- 
 The spending ranges did not change and Thomas High School falls into the bucket of $630-644.  No other changes were made to the data so this is the only bucket that was effected all the passing percentages went up for all values. 
-
-
-
 
 **Spending Scores Original data Frame**
 
