@@ -28,5 +28,5 @@ We found that there were a total of 461 students from Thomas High School.  All o
 
 ![Original_per_school_summary.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Original_per_school_summary.PNG) 
 
-**Modified Distric Data Frame**
+**Modified District Data Frame**
 ![Modified_per_schools_summary.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Modified_per_schools_summary.PNG)
