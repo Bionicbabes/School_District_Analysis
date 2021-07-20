@@ -82,7 +82,7 @@ The School size with out the 9th grader went from 1,635 students to 1,174, this 
 
 **Scores by School Size Modified data Frame**
 
-When looking at the school type Thomas is charter school and will only effect the charter school type. 
+When looking at the school type Thomas is charter school and will only effect the charter school type. Passing pecentages increased for math, reading and overall. 
 
 ![School_Size_Modified.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/School_Size_Modified.PNG)
 
@@ -90,10 +90,14 @@ When looking at the school type Thomas is charter school and will only effect th
 
 **Scores by School Type Original data Frame**
 
-![Scores_by_school_type_original.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Scores_by_school_type_original.PNG)
-
+![Scores_by_school_type_modified.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Scores_by_school_type_modified.PNG)
 
 **Scores by School Type Modified data Frame**
 
-![Scores_by_school_type_modified.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Scores_by_school_type_modified.PNG)
+![Scores_by_school_type_original.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Scores_by_school_type_original.PNG)
+
+- **Summary:**
+------------------------------
+
+This report goes over in detail the effects of removing the 9th graders from Thomas High School, but overall the effect are seen in all of the anlaysis.  This is do to how percentages work by removing the students we are decreasing the demoninator in the equation and therefor increasing all the passing percentage, this is the inverse proportion property of percentages.  Although the percentages have changed and effected our analysis across all metrics the averages for math and reading have stay relatively the same due to the small standard deviation within the sample school.  Thomas High School definetly looks better now that the 9th graders have been removed going from 8th best in the distric to 2nd best.  Population size seems to be the driving factor with the larger schools having much lower passing percentages.
 
