@@ -30,3 +30,15 @@ We found that there were a total of 461 students from Thomas High School.  All o
 
 **Modified District Data Frame**
 ![Modified_per_schools_summary.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Modified_per_schools_summary.PNG)
+
+**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+
+- Although this did not effect the averages at all the overall passing percentage increased dramatically and takes Thomas High School from being 8th in the disctric to being 2nd best in the district
+- 
+**Original Top Schools data Frame**
+![Original_district_summary.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Original_district_summary.PNG)
+
+**Modified Top Schools Data Frame**
+
+![Modified_district_summary.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Modified_district_summary.PNG)
+
