@@ -6,5 +6,5 @@ The school board has notified me that the students_complete.csv file shows evide
 
 - How was the distict summary affected ?
 We found that there were a total of 461 students from Thomas High School.  All of their scores have been removed from the over totals student going from 39,170 students to 38,709 students.  Data frames show an ~ 25 to 30 % increase in the passing scores from the Thomas High School. 
-![Original_district_summary.PNG](https://github.com/Bionicbabes/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png) 
-![Modified_district_summary.PNG](https://github.com/Bionicbabes/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![Original_district_summary.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Original_district_summary.PNG) 
+![Modified_district_summary.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Modified_district_summary.PNG)
