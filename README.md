@@ -52,8 +52,24 @@ Although this did not effect the averages at all the overall passing percentage 
 Looking at the data all the the averages across all grade are very similar ranging from 83.2 to 84.0 for the top tear schools, but what is interesting is when you take out the ninth graders and decrease the total number of students the passing percentages all increase significantly.  Thomas High school are very consistent from grade to grade the differentiator is the school size for overall performance.
 
 **Math Scores by Grade data Frame**
+
 ![Math_scores_by_school.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Math_scores_by_school.PNG)
 
 **Reading Scores by Grade data Frame**
+
+![Reading_scores_by_school.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Reading_scores_by_school.PNG)
+
+
+-**Scores by school spending**
+The spending ranges did not change and Thomas High School falls into the bucket of $630-644.  No other changes were made to the data so this is the only bucket that was effected all the passing percentages went up for all values. 
+
+
+
+
+**Spending Scores Original data Frame**
+
+![Math_scores_by_school.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Math_scores_by_school.PNG)
+
+**Spending Scores Original data Frame**
 
 ![Reading_scores_by_school.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Reading_scores_by_school.PNG)
