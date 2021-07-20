@@ -68,8 +68,8 @@ The spending ranges did not change and Thomas High School falls into the bucket 
 
 **Spending Scores Original data Frame**
 
-![Math_scores_by_school.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Math_scores_by_school.PNG)
+![spending_original.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/spending_original.PNG)
 
 **Spending Scores Original data Frame**
 
-![Reading_scores_by_school.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Reading_scores_by_school.PNG)
+![spending_modified.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/spending_modified.PNG)
