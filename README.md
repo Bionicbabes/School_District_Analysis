@@ -7,6 +7,7 @@ The school board has notified me that the students_complete.csv file shows evide
 
 
 - **How was the district summary affected ?**
+------------------------------
 
 The effect on the district averages are subtle, by removing the data we see a decrease across all the values.  Math score decreased by 0.1%, reading stayed the same, decrease in passing math % by 0.2, decrease in passing reading % by 0.3, decrease in overall passing % by 0.1.
 
@@ -21,6 +22,7 @@ The effect on the district averages are subtle, by removing the data we see a de
 
 
 - **How was the school summary affected ?**
+- ------------------------------
 
 We found that there were a total of 461 students from Thomas High School.  All of their scores have been removed from the over totals student going from 39,170 students to 38,709 students.  Data frames show an ~ 25 to 30 % increase in the passing scores from the Thomas High School. 
 
@@ -31,10 +33,11 @@ We found that there were a total of 461 students from Thomas High School.  All o
 **Modified District Data Frame**
 ![Modified_per_schools_summary.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Modified_per_schools_summary.PNG)
 
-**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+- **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+------------------------------
 
-- Although this did not effect the averages at all the overall passing percentage increased dramatically and takes Thomas High School from being 8th in the disctric to being 2nd best in the district
-- 
+Although this did not effect the averages at all the overall passing percentage increased dramatically and takes Thomas High School from being 8th in the disctric to being 2nd best in the district
+ 
 **Original Top Schools data Frame**
 ![Top_school_by_overall_score_original.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Top_school_by_overall_score_original.PNG)
 
@@ -42,3 +45,5 @@ We found that there were a total of 461 students from Thomas High School.  All o
 
 ![Top_school_by_overall_score_modified.PNG](https://github.com/Bionicbabes/School_District_Analysis/blob/main/Resources/Top_school_by_overall_score_modified.PNG)
 
+- **How does replacing the ninth-grade scores affect the following:**
+------------------------------
